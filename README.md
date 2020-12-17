@@ -1,6 +1,6 @@
 # Jack-o-lantern with moving eyes
 
-This repository holds files that were used to make a jack-o-lantern in 2020. Watch a [video](https://www.youtube.com/watch?v=TUHtwH0Z4Xc).
+This repository holds files that were used to make a jack-o-lantern in 2020. Watch a [video](https://www.youtube.com/watch?v=TUHtwH0Z4Xc) or read a [blog post](https://stayrelevant.globant.com/en/pumpkin-halloween/).
 
 ## Primary parts
 
